@@ -13,7 +13,7 @@ import java.io.FileInputStream;
 import java.io.IOException;
 
 /**
- * Created by AmbroseWord on 2016/05/26.
+ * Created by AmbroseWord on 2016/05/26.//
  */
 public class FDTestView extends View {
     FileList fileList;      //ダウンロードしたファイルのリスト
